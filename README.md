@@ -20,11 +20,8 @@ JQuery
 
 ## Screenshots
 
-
-<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/worschedule/assets/123417090/3c24857c-4e44-47d2-bda8-db228104fec2">
-
-
-<img width="692" alt="Screenshot 2023-05-12 at 11 42 33" src="https://github.com/Ze7Hu/worschedule/assets/123417090/ff5442f6-e72e-4872-8269-ea1bac4b52c6">
+<img width="692" alt="Screenshot 2023-05-12 at 07 53 57" src="https://github.com/Ze7Hu/Work-/assets/123417090/fcd4f2f8-ef73-4e49-8836-479113903348">
 
 
+<img width="692" alt="Screenshot 2023-05-12 at 11 42 33" src="https://github.com/Ze7Hu/Work-/assets/123417090/a8196251-62d2-47c6-bbec-2319bf3a20a4">
 
